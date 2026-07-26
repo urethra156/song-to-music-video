@@ -1,0 +1,8 @@
+{
+  "name": "AI Music Video Director",
+  "description": "Your AI-powered creative partner for music videos. Deeply analyzes your song and generates bespoke video scripts, prompts, and downloadable workflows tuned specifically for local ComfyUI models (Wan 2.1, HunyuanVideo, AnimateDiff, CogVideoX, SVD, Flux.1, SDXL).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
